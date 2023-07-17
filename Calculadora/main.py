@@ -8,7 +8,7 @@ ventana.title("Mi ventana")
 ventana.geometry("400x300")
 
 # Agregar un widget de etiqueta
-etiqueta = tk.Label(ventana, text="Crizzzzzz!")
+etiqueta = tk.Label(ventana, text="Crizzz!")
 etiqueta.pack()
 
 # Ejecutar el bucle principal de la ventana
